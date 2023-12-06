@@ -1,0 +1,40 @@
+﻿* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Brand {
+    float: left;
+    width: 40%;
+}
+
+.nav {
+    float: left;
+    width: 60%;
+    margin-top: 20px;
+}
+
+.nav li {
+        display: inline-block;
+        padding: 10px 15px;
+        text-transform: uppercase;
+        border-bottom: 2px solid transparent;
+}
+
+.active,
+.nav li:hover {
+         color: rgb(16, 30, 25);
+         border-bottom: 2px solid transparent;
+ }

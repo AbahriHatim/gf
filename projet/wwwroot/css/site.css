@@ -1,0 +1,172 @@
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.t1 {
+    font-size: 40px;
+    color: brown;
+}
+
+#photoDeBase {
+    width: 700px;
+    height: 500px;
+}
+
+.t2 {
+    margin: auto;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.section1 {
+    width: 300px;
+    text-align: center;
+    display: block;
+    border: 2px outset;
+    border-radius: 5%;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float: left;
+    background-color: rgb(247, 247, 232);
+}
+
+#image1 {
+    width: 300px;
+    height: 200px;
+}
+
+.text1 {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
+}
+
+.corp1 {
+    text-align: left;
+}
+
+.section2 {
+    width: 300px;
+    text-align: center;
+    display: block;
+    background-color: transparent;
+    border: 2px outset;
+    border-radius: 5%;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float: right;
+    background-color: rgb(247, 247, 232);
+}
+
+#image2 {
+    width: 300px;
+    height: 200px;
+}
+
+.text2 {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 20%;
+}
+
+.corp2 {
+    text-align: left;
+}
+
+.section3 {
+    width: 300px;
+    text-align: center;
+    display: block;
+    background-color: transparent;
+    border: 2px outset;
+    border-radius: 5%;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float: right;
+    background-color: rgb(247, 247, 232);
+}
+
+#image3 {
+    width: 300px;
+    height: 200px;
+}
+
+.text3 {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: right;
+}
+
+.corp3 {
+    text-align: left;
+}
+
+.container2 {
+    gap: 0rem 14rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.t3 {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+#image4 {
+    width: 600px;
+    height: 500px;
+}
+
+.button {
+    background-color: bisque;
+    display: block;
+    margin: auto;
+}
+
+.container4 {
+    gap: 0rem 14rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+    content: "";
+    position: absolute;
+}
+
+.icone1 {
+    font-size: 50px;
+}
+
+.textIcone1 {
+    font-size: 40px;
+}
+
+.icone2 {
+    font-size: 50px;
+}
+
+.textIcone2 {
+    font-size: 40px;
+}
+
+.icone3 {
+    font-size: 50px;
+}
+
+.textIcone3 {
+    font-size: 40px;
+}
